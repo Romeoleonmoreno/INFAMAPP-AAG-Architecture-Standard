@@ -30,3 +30,12 @@ Cualquier implementación que reproduzca sustancialmente esta combinación funci
 
 ---
 © 2026 José Manuel León Moreno. Todos los derechos reservados.
+
+## 🛡️ Commercial Implementation & Certification
+The AAG Architecture is a governed standard. Commercial use, third-party implementations, or 
+offering "AAG-compliant" services requires an **Official Certification**. 
+
+If your organization wishes to become a **Certified Partner** to implement this technology 
+for end-clients, please contact the author for the accreditation process. 
+Unauthorized commercial use of the AAG brand or methodology is strictly prohibited.
+

@@ -5,6 +5,10 @@
 **Propiedad Intelectual:** Registro Único V5 - 2026
 
 ATENCIÓN: Este repositorio contiene conceptos protegidos por Propiedad Intelectual. La implementación de la Arquitectura AAG fuera de entornos de prueba requiere una Certificación de Partner Oficial.
+> **⚠️ ESTATUS LEGAL:** Este proyecto NO es de dominio público. 
+> Todos los derechos reservados. Registro de Propiedad Intelectual en proceso.
+> El uso de este repositorio está limitado a fines de revisión y auditoría personal.
+
 
 ## 🛡️ Propósito del Estándar
 Este repositorio custodia los principios funcionales de la **AAG**, una infraestructura diseñada para erradicar la fragmentación tecnológica mediante la **Inteligencia Continua**. 

@@ -16,3 +16,16 @@ Cualquier modificación o variación basada en este concepto se considerará una
 
 ## 5. Contacto para Licencias
 Para propuestas de implementación, acuerdos de colaboración o adquisición de licencias comerciales, contactar directamente con el propietario.
+
+# PROPRIETARY LICENSE - AAG ARCHITECTURE
+
+**Copyright (c) 2026 José Manuel León Moreno. All Rights Reserved.**
+
+El modelo 'Arquitectura de Asistencia Gobernada (AAG)' y su componente de 'Núcleo Transversal' son propiedad intelectual exclusiva de José Manuel León Moreno.
+
+### RESTRICTED USE:
+1. NO comercialización: Queda prohibida la implementación comercial, venta o distribución.
+2. NO transformación: Cualquier desarrollo derivado se considera obra derivada bajo propiedad del autor original.
+3. USO ACADÉMICO: Solo se permite la visualización y estudio personal.
+
+Para licencias comerciales o acceso a la metodología de implementación, contactar con el autor.

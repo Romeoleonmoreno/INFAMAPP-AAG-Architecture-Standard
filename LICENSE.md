@@ -29,3 +29,5 @@ El modelo 'Arquitectura de Asistencia Gobernada (AAG)' y su componente de 'Núcl
 3. USO ACADÉMICO: Solo se permite la visualización y estudio personal.
 
 Para licencias comerciales o acceso a la metodología de implementación, contactar con el autor.
+
+Se prohíbe expresamente cualquier intento de ingeniería inversa, descompilación o desensamblaje de los componentes del Núcleo Transversal AAG. El usuario se compromete a no intentar descubrir el código fuente, algoritmos o lógica interna de la arquitectura para crear obras competitivas o derivados que utilicen la lógica estructural aquí expuesta.

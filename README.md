@@ -4,6 +4,8 @@
 **Estatus:** Concepto Galardonado con Premio Nacional a la Innovación I+D+i
 **Propiedad Intelectual:** Registro Único V5 - 2026
 
+ATENCIÓN: Este repositorio contiene conceptos protegidos por Propiedad Intelectual. La implementación de la Arquitectura AAG fuera de entornos de prueba requiere una Certificación de Partner Oficial.
+
 ## 🛡️ Propósito del Estándar
 Este repositorio custodia los principios funcionales de la **AAG**, una infraestructura diseñada para erradicar la fragmentación tecnológica mediante la **Inteligencia Continua**. 
 
